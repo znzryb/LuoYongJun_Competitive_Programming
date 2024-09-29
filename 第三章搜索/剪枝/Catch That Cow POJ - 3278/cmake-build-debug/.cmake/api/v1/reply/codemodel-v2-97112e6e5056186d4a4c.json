@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Catch_That_Cow_POJ___3278",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Catch_That_Cow_POJ___3278::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Catch_That_Cow_POJ___3278-Debug-aa9d7b0b23e185e79108.json",
+					"name" : "Catch_That_Cow_POJ___3278",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/LuoYongJun_Competitive_Programming/\u7b2c\u4e09\u7ae0\u641c\u7d22/\u526a\u679d/Catch That Cow POJ - 3278/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/LuoYongJun_Competitive_Programming/\u7b2c\u4e09\u7ae0\u641c\u7d22/\u526a\u679d/Catch That Cow POJ - 3278"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
