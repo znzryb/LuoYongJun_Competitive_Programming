@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1379__BfsNoSame",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1379__BfsNoSame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1379__BfsNoSame-Debug-79d906696f59008893d4.json",
+					"name" : "P1379__BfsNoSame",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/LuoYongJun_Competitive_Programming/\u7b2c\u4e09\u7ae0\u641c\u7d22/\u526a\u679d/P1379_\u516b\u6570\u7801\u96be\u9898_BfsNoSame/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/LuoYongJun_Competitive_Programming/\u7b2c\u4e09\u7ae0\u641c\u7d22/\u526a\u679d/P1379_\u516b\u6570\u7801\u96be\u9898_BfsNoSame"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
