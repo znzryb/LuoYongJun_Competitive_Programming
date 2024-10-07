@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tempter_of_the_Bone_HDU___1010",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tempter_of_the_Bone_HDU___1010::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tempter_of_the_Bone_HDU___1010-Debug-6091acb9a431c97bc63f.json",
+					"name" : "Tempter_of_the_Bone_HDU___1010",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/LuoYongJun_Competitive_Programming/\u7b2c\u4e09\u7ae0\u641c\u7d22/\u526a\u679d/Tempter of the Bone HDU - 1010/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/LuoYongJun_Competitive_Programming/\u7b2c\u4e09\u7ae0\u641c\u7d22/\u526a\u679d/Tempter of the Bone HDU - 1010"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
